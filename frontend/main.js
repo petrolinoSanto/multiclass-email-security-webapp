@@ -27,9 +27,9 @@ const samples = {
   },
 
   spam: {
-    subject: "You have won a special cash reward",
+    subject: "Immediate investor alert",
     body:
-      "Congratulations. You have been selected to receive a special cash prize. Reply now to claim your reward before this offer expires."
+      "Immediate investor alert for German exchange market watchers. This commercial stock report highlights a unique trading opportunity connected to a market index and investor data block. The report includes a globally unique identifier used to reference the market information. Review the latest price movement, target price, and short-term trading recommendation. Contact your broker for more information before making any investment decision. This message is a commercial investor alert for active traders."
   },
 
   phishing: {
