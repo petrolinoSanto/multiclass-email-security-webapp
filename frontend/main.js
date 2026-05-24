@@ -38,11 +38,11 @@ const samples = {
       "Your account has been temporarily suspended due to unusual activity. Please verify your login details immediately using the link below to restore access."
   },
 
-  promotion: {
-    subject: "Limited time discount on selected products",
-    body:
-      "Enjoy our seasonal promotion with exclusive discounts on selected products. This offer is available for a limited time only."
-  }
+promotion: {
+  subject: "Your 10% off promo code is inside! Inbox",
+  body:
+    "Your offer is here! Use code TUBYA2020 at checkout to save 10% on certifications, vouchers, and training that will help you advance your career.\n\nClaim your offer."
+}
 };
 
 /* =========================================================
